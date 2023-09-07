@@ -51,7 +51,7 @@ neural_network_basics_b_4: [30]
 neural_network_basics_c_1: 0.5
 
 # Question 2 (/2): What is the cross entropy loss (Base 2) if the second example is positive?
-neural_network_basics_c_2: 0.6931
+neural_network_basics_c_2: 1
 
 
 # ------------------------------------------------------------------
